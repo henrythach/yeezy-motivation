@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "Yeezy Motivation",
+  "version": "1.0",
+  "description": "Get Kanye West motivational quotes on every new tab.",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
