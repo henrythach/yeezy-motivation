@@ -3,7 +3,7 @@ var QUOTES = [
   "My greatest pain in life is that I will never be able to see myself perform live.",
   "A lot of people were wondering what I was gonna do if I didn't win anything. I guess we'll never know.",
   "I feel like I'm too busy writing history to read it.",
-  "You can't look at a glass half full or empty it it's overflowing.",
+  "You can't look at a glass half full or empty if it's overflowing.",
   "My greatest award is what I'm about to do.",
   "Nobody can tell me where I can and can't go.",
   "I am so credible and so influential and so relevent that I will change things.",
