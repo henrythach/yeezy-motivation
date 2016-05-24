@@ -12,7 +12,7 @@ var QUOTES = [
   "People say I have a bad reputation.  I think I've got the best reputation in the building.",
   "50 is Eminem's favorite rapper... I'm my favorite rapper.",
   "For me giving up is way harder than trying.",
-  "Believe in your flyness...conquer your shyness.",
+  "Believe in your flyness... conquer your shyness.",
   "Success is the best revenge.",
   "Come on now! How could you be me and want to be someone else?",
   "If you're a Kanye West fan, you're not a fan of me. You're a fan of yourself.",
